@@ -14,11 +14,9 @@ Basics of Machine Learning and Aritificial Intelligence
 
 Learning a new course in ML and AI
 
-## Header 2
+Check Commit to Github  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Learning a new course in AI and ML 
 
 ### Header 3
 
